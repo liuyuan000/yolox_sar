@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<source>
+		<filename>assets\1.tif</filename>
+		<origin>GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>Company/School of team</provider>
+		<author>team name</author>
+		<pluginname>Airplane Detection and Recognition</pluginname>
+		<pluginclass>Detection</pluginclass>
+		<time>2021-07-2021-11</time>
+	</research>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Boeing787</name>
+				<probability>0.7010654211044312</probability>
+			</possibleresult>
+			<points>
+				<point>0,269</point>
+				<point>43,269</point>
+				<point>43,351</point>
+				<point>0,351</point>
+				<point>0,269</point>
+			</points>
+			</object>
+		</objects>
+</annotation>

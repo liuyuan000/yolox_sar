@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<source>
+		<filename>assets\4.tif</filename>
+		<origin>GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>Company/School of team</provider>
+		<author>team name</author>
+		<pluginname>Airplane Detection and Recognition</pluginname>
+		<pluginclass>Detection</pluginclass>
+		<time>2021-07-2021-11</time>
+	</research>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>other</name>
+				<probability>0.8566681742668152</probability>
+			</possibleresult>
+			<points>
+				<point>421,287</point>
+				<point>488,287</point>
+				<point>488,358</point>
+				<point>421,358</point>
+				<point>421,287</point>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>other</name>
+				<probability>0.8540292978286743</probability>
+			</possibleresult>
+			<points>
+				<point>507,278</point>
+				<point>570,278</point>
+				<point>570,349</point>
+				<point>507,349</point>
+				<point>507,278</point>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>ARJ21</name>
+				<probability>0.8537383079528809</probability>
+			</possibleresult>
+			<points>
+				<point>345,406</point>
+				<point>399,406</point>
+				<point>399,456</point>
+				<point>345,456</point>
+				<point>345,406</point>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>other</name>
+				<probability>0.820301353931427</probability>
+			</possibleresult>
+			<points>
+				<point>336,279</point>
+				<point>395,279</point>
+				<point>395,355</point>
+				<point>336,355</point>
+				<point>336,279</point>
+			</points>
+			</object>
+		</objects>
+</annotation>

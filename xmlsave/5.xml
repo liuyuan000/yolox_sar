@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<source>
+		<filename>assets\5.tif</filename>
+		<origin>GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>Company/School of team</provider>
+		<author>team name</author>
+		<pluginname>Airplane Detection and Recognition</pluginname>
+		<pluginclass>Detection</pluginclass>
+		<time>2021-07-2021-11</time>
+	</research>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>A220</name>
+				<probability>0.9388915300369263</probability>
+			</possibleresult>
+			<points>
+				<point>428,264</point>
+				<point>520,264</point>
+				<point>520,330</point>
+				<point>428,330</point>
+				<point>428,264</point>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>A220</name>
+				<probability>0.881473958492279</probability>
+			</possibleresult>
+			<points>
+				<point>421,21</point>
+				<point>518,21</point>
+				<point>518,87</point>
+				<point>421,87</point>
+				<point>421,21</point>
+			</points>
+			</object>
+		</objects>
+</annotation>
